@@ -1,0 +1,76 @@
+#wrapper{
+	background-image: url("../Images/background/Supermarket.jpg");
+	background-repeat : no-repeat;
+	background-size : cover;
+	height: 560px;
+	color : white;
+	text-shadow : 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+body{
+font-family: calibri;
+}
+
+.navbar-transparent {
+	background-color: white;
+	color:#aaaaaa;
+	font-size: 15px;
+}
+
+.feature i {
+	padding-bottom: 20px;
+}
+
+.feature p {
+	font-size: 20px;
+}
+
+#titre{
+	text-align: center;
+	padding-top: 80px;
+	margin-bottom: 80px;
+}
+
+#titre h2 {
+	font-size: 50px;
+}
+
+#sous-titre {
+	text-align: center;
+	font-size: 50px;
+	margin-bottom: 40px;
+}
+
+#procedure{
+	margin-bottom: 100px;
+}
+
+#start{
+	text-align: center;
+	padding-top: 50px;
+}
+
+#footer{
+background-color: black;
+color:#aaaaaa;
+padding-top: 10px;
+
+}
+
+#footer a {
+
+	color :#aaaaaa;
+}
+
+#footer a:hover {
+
+	color: #dddddd;
+}
+
+#social {
+	text-align: center;
+}
+
+#reserve {
+text-align: center;
+}
