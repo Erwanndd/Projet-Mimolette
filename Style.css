@@ -2,7 +2,7 @@
 	background-image: url("Supermarket 2.jpg");
 	background-repeat : no-repeat;
 	background-size : cover;
-	height: 750px;
+	height: 400px;
 	color : white;
 	text-shadow : 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
@@ -28,7 +28,7 @@ font-family: calibri;
 #titre{
 	text-align: center;
 	padding-top: 80px;
-	margin-bottom: 80px;
+	margin-bottom: 180px;
 }
 
 #titre h2 {
@@ -39,20 +39,24 @@ font-family: calibri;
 	text-align: center;
 	font-size: 50px;
 	margin-bottom: 40px;
+	color: #007DBD;
 }
 
-#procedure{
+.procedure{
 	margin-bottom: 100px;
+	color: #007DBD;
 }
 
 #introduction-formulaire{
 	text-align: center;
 	font-size: 50px;
+	color: #007DBD;
 }
 
 #formulaire{
 	margin-top: 50px;
 	margin-bottom: 20px;
+	color: #007DBD;
 }
 
 #footer{
