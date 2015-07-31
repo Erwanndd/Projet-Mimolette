@@ -8,7 +8,7 @@
 }
 
 body{
-font-family: calibri;
+font-family: font-family: 'Roboto', sans-serif;
 }
 
 .navbar-transparent {
@@ -39,7 +39,7 @@ font-family: calibri;
 	text-align: center;
 	font-size: 50px;
 	margin-bottom: 40px;
-	color: #007DBD;
+	color: black;
 }
 
 .procedure{
