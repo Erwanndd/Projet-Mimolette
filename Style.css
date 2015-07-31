@@ -2,7 +2,7 @@
 	background-image: url("Supermarket.jpg");
 	background-repeat : no-repeat;
 	background-size : cover;
-	height: 600px;
+	height: 630px;
 	color : white;
 	text-shadow : 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
@@ -43,6 +43,11 @@ font-family: calibri;
 
 #procedure{
 	margin-bottom: 100px;
+}
+
+#introduction-formulaire{
+	text-align: center;
+	font-size: 50px;
 }
 
 #formulaire{
